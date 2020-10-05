@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">HM Imóveis</string>
+    <string name="cadastro">Cadastrar</string>
+    <string name="name">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="phone">Celular</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="confPassword">Repita Senha</string>
+    <string name="textAccont">Já tem uma conta?</string>
+    <string name="textLogin">Login</string>
 </resources>

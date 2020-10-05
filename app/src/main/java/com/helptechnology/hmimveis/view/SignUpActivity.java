@@ -1,10 +1,12 @@
-package com.helptechnology.hmimveis;
+package com.helptechnology.hmimveis.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.helptechnology.hmimveis.R;
+
+public class SignUpActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
